@@ -1,17 +1,17 @@
 ## Databases
 
 - Theory and concepts
-  - Data types h
-  - Performance tuning
+  - Data types: 🖐️ used
+  - Performance tuning: 👂 heard
   - Migrations
   - Schema versioning
   - Backup and recovery
-  - Database scalability
-  - Relational databases
-  - Key-value store
-  - Tuple store
-  - Graph databases
-  - Object databases
+  - Database scalability: 👂 heard
+  - Relational databases: 👂 heard
+  - Key-value store: 🖐️ used
+  - Tuple store: 👂 heard
+  - Graph databases: 👂 heard
+  - Object databases: 👂 heard
   - Column databases
   - Navigational databases
   - Hierarchical databases
@@ -22,48 +22,48 @@
   - Data manipulation language (DML)
   - Data query language (DQL)
 - Relational
-  - Entity-Relationship Diagram
+  - Entity-Relationship Diagram: 👂 heard
   - Normal forms
-  - Indexing
-  - Primary keys
+  - Indexing: 👂 heard
+  - Primary keys: 👂 heard
   - Foreign keys
   - Transactions
   - Views
   - Subqueries
   - Stored procedures
-  - SQL functions
+  - SQL functions: 👂 heard
   - Materialized views
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
+  - `SELECT`: 👂 heard
+  - `INSERT`: 👂 heard
   - `UPDATE`
   - `DELETE`
   - `LIMIT`
   - `OFFSET`
-  - `ORDER BY`
-  - `GROUP BY`
+  - `ORDER BY`: 👂 heard
+  - `GROUP BY`: 👂 heard
   - `HAVING`
   - `EXISTS`
-  - `JOIN`
-  - `INNER JOIN`
+  - `JOIN`: 👂 heard
+  - `INNER JOIN`: 👂 heard
   - `LEFT JOIN`
   - `RIGHT JOIN`
   - `UNION`
   - `DISTINCT`
   - `WHERE`
   - `LIKE`
-  - `IN`
+  - `IN`: 👂 heard
   - `BETWEEN`
-  - `CREATE TABLE`
-  - `ALTER TABLE`
+  - `CREATE TABLE`: 👂 heard
+  - `ALTER TABLE`: 👂 heard
   - `DROP TABLE`
   - `PRIMARY KEY`
   - `FOREIGN KEY`
   - `CHECK`
   - `DEFAULT`
-  - `INDEX`
+  - `INDEX h`
   - `UNIQUE`
   - `GRANT`
   - `REVOKE`
@@ -71,24 +71,24 @@
   - `EXPLAIN`
 - Engines
   - PostgreSQL
-  - Oracle h
-  - MySQL h
+  - Oracle: 👂 heard
+  - MySQL: 👂 heard
   - MariaDB
-  - MS SQL Server h
+  - MS SQL Server: 👂 heard
   - Redis
   - Rabbit
   - MongoDB
   - Memcached
   - Riak
   - DB2
-  - SQLite h
+  - SQLite
   - DynamoDB
   - Firebase
 - Data engineering
   - Data warehousing
   - Business intelligence
   - Big data
-  - Data analysis h
-  - AI tools h
-  - Cloud databases
-  - Data Visualization
+  - Data analysis: 👂 heard
+  - AI tools: 👂 heard
+  - Cloud databases: 👂 heard
+  - Data Visualization: 👂 heard
