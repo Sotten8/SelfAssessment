@@ -1,7 +1,7 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js h
+  - Strong and weak sides of node.js: 👂 heard
   - Stateful and stateless servers
   - Nonblocking I/O and blocking code
   - Event loop phases
@@ -11,17 +11,17 @@
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules u
-  - ECMAScript modules u
+  - CommonJS modules: 🖐️ used
+  - ECMAScript modules: 🖐️ used
   - Module `node:module`
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules` u
-  - Files `package.json`, `package-lock.json` u
+  - Dependencies: `npm`, `node_modules`: 🖐️ used
+  - Files `package.json`, `package-lock.json`: 🖐️ used
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection h
+  - Dependency injection: 👂 heard
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
@@ -65,9 +65,9 @@
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
-  - Fetch API k
+  - Fetch API: 🎓 known
   - IncomingMessage
-  - HTTP(S) k
+  - HTTP(S): 🎓 known
   - TCP/SSL
   - UDP
   - TLS
@@ -92,28 +92,28 @@
   - Native test runner
   - Logging
   - Application configuring
-  - Testing h
+  - Testing: 👂 heard
   - CI/CD
-  - Readable h
-  - Writable h
+  - Readable: 👂 heard
+  - Writable: 👂 heard
   - Transform
   - Back pressure
   - Buffer
-  - Console u
+  - Console: 🖐️ used
   - Inspector
 - Data access
-  - Data access layer h
-  - Repository u
+  - Data access layer: 👂 heard
+  - Repository: 🖐️ used
   - Active record
   - Query builder
   - Object-Relational Mapping
   - CRUD
   - DTO
 - Error handling and debugging
-  - `Error` u
+  - `Error`: 🖐️ used
   - `error.cause`
   - `error.code`
-  - `error.message` u
+  - `error.message`: 🖐️ used
   - `error.stack`
   - `Error.captureStackTrace`
   - How to avoid mixins

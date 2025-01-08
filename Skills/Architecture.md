@@ -1,15 +1,15 @@
 ## Architecture
 
 - Application structure
-  - Modularity u
-  - Components h
-  - Directories u
-  - GRASP h
-  - SOLID h
+  - Modularity: 🖐️ used
+  - Components: 👂 heard
+  - Directories: 🖐️ used
+  - GRASP: 👂 heard
+  - SOLID: 👂 heard
   - GoF patterns
   - CQS
   - Leaking abstractions
-  - Multiparadigm code h
+  - Multiparadigm code: 👂 heard
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
@@ -18,10 +18,10 @@
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability k
-  - Quality k
-  - Availability h
-  - Flexibility k
+  - Reliability: 🎓 known
+  - Quality: 🎓 known
+  - Availability: 👂 heard
+  - Flexibility: 🎓 known
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
@@ -30,11 +30,11 @@
   - Multilayer approach
   - Hexagonal architecture
   - Separation of concerns (SoC)
-  - Metaprogramming h
+  - Metaprogramming: 👂 heard
   - Inversion of control (IoC)
-  - Dependency injection (DI) h
+  - Dependency injection (DI): 👂 heard
   - Clean architecture
-  - Domain-driven design (DDD) h
+  - Domain-driven design (DDD): 👂 heard
   - Pub/sub
   - Message brocker
   - Agent
@@ -43,7 +43,7 @@
   - CQRS
   - Event sourcing
   - E-R data modeling
-  - Entity-relationship diagram h
+  - Entity-relationship diagram: 👂 heard
   - IDEF1X
   - UML
   - Work breakdown structure
@@ -61,18 +61,18 @@
   - Vendor lock-in
   - Bus factor
 - Solution architecture
-  - A software requirements specification (SRS) k
-  - Solution visions h
-  - Solution capabilities h
-  - System design h
-  - Process modelling h
+  - A software requirements specification (SRS): 🎓 known
+  - Solution visions: 👂 heard
+  - Solution capabilities: 👂 heard
+  - System design: 👂 heard
+  - Process modelling: 👂 heard
   - Data modelling
-  - Solution components h
-  - Risk assessment h
-  - Non Functional Requirements (NFR) h
-  - Clouds k
+  - Solution components: 👂 heard
+  - Risk assessment: 👂 heard
+  - Non Functional Requirements (NFR): 👂 heard
+  - Clouds: 🎓 known
   - BPMN
-  - Low-code h
+  - Low-code: 👂 heard
   - No-code
   - Metric
   - Metric abuse
@@ -96,5 +96,5 @@
   - OLAP
   - OLTP
   - Conways Law
-  - Quality assurance u
+  - Quality assurance: 🖐️ used
   - Engineering Hygiene

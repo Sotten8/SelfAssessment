@@ -1,17 +1,17 @@
 ## Databases
 
 - Theory and concepts
-  - Data types u
-  - Performance tuning h
+  - Data types: 🖐️ used
+  - Performance tuning: 👂 heard
   - Migrations
   - Schema versioning
   - Backup and recovery
-  - Database scalability h
-  - Relational databases h
-  - Key-value store u
-  - Tuple store h
-  - Graph databases h
-  - Object databases h
+  - Database scalability: 👂 heard
+  - Relational databases: 👂 heard
+  - Key-value store: 🖐️ used
+  - Tuple store: 👂 heard
+  - Graph databases: 👂 heard
+  - Object databases: 👂 heard
   - Column databases
   - Navigational databases
   - Hierarchical databases
@@ -22,42 +22,42 @@
   - Data manipulation language (DML)
   - Data query language (DQL)
 - Relational
-  - Entity-Relationship Diagram h
+  - Entity-Relationship Diagram: 👂 heard
   - Normal forms
-  - Indexing h
-  - Primary keys h
+  - Indexing: 👂 heard
+  - Primary keys: 👂 heard
   - Foreign keys
   - Transactions
   - Views
   - Subqueries
   - Stored procedures
-  - SQL functions h
+  - SQL functions: 👂 heard
   - Materialized views
   - Replications
   - Virtualization
 - SQL
-  - `SELECT` h
-  - `INSERT` h
+  - `SELECT`: 👂 heard
+  - `INSERT`: 👂 heard
   - `UPDATE`
   - `DELETE`
   - `LIMIT`
   - `OFFSET`
-  - `ORDER BY` h
-  - `GROUP BY` h
+  - `ORDER BY`: 👂 heard
+  - `GROUP BY`: 👂 heard
   - `HAVING`
   - `EXISTS`
-  - `JOIN` h
-  - `INNER JOIN` h
+  - `JOIN`: 👂 heard
+  - `INNER JOIN`: 👂 heard
   - `LEFT JOIN`
   - `RIGHT JOIN`
   - `UNION`
   - `DISTINCT`
   - `WHERE`
   - `LIKE`
-  - `IN` h
+  - `IN`: 👂 heard
   - `BETWEEN`
-  - `CREATE TABLE` h
-  - `ALTER TABLE` h
+  - `CREATE TABLE`: 👂 heard
+  - `ALTER TABLE`: 👂 heard
   - `DROP TABLE`
   - `PRIMARY KEY`
   - `FOREIGN KEY`
@@ -71,10 +71,10 @@
   - `EXPLAIN`
 - Engines
   - PostgreSQL
-  - Oracle h
-  - MySQL h
+  - Oracle: 👂 heard
+  - MySQL: 👂 heard
   - MariaDB
-  - MS SQL Server h
+  - MS SQL Server: 👂 heard
   - Redis
   - Rabbit
   - MongoDB
@@ -88,7 +88,7 @@
   - Data warehousing
   - Business intelligence
   - Big data
-  - Data analysis h
-  - AI tools h
-  - Cloud databases h
-  - Data Visualization h
+  - Data analysis: 👂 heard
+  - AI tools: 👂 heard
+  - Cloud databases: 👂 heard
+  - Data Visualization: 👂 heard

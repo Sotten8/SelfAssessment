@@ -1,43 +1,43 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop h
+  - Event loop: 👂 heard
   - `try..catch u`
   - Non-blocking
-  - Async I/O u
+  - Async I/O: 🖐️ used
   - Thread pool
-  - Pattern Reactor h
+  - Pattern Reactor: 👂 heard
   - CAS operations
   - epoll
   - kqueue
   - Completion ports
-  - Event ports h
+  - Event ports: 👂 heard
   - libuv
   - Race conditions
   - Dead locks
   - Live locks
   - Concurrent programming
-  - Parallel programming h
+  - Parallel programming: 👂 heard
   - Actor Model
   - Thread
   - Process
 - Async contracts
-  - Callbacks u
+  - Callbacks: 🖐️ used
   - Callback-last-error-first
   - Thenable
-  - Promise u
-  - Async/await u
+  - Promise: 🖐️ used
+  - Async/await: 🖐️ used
   - Future
   - Deferred
   - Sync generator
   - Async Generator
-  - Async Iterator h
-  - Event h
+  - Async Iterator: 👂 heard
+  - Event: 👂 heard
   - Coroutine
   - Goroutine
   - Signal
   - Stream
-  - Chain of responsibility h
+  - Chain of responsibility: 👂 heard
   - Middleware
   - Locks
 - Async adapters and utils
@@ -45,12 +45,12 @@
   - promisify
   - asyncify
   - Callbacks compose
-  - Async compose h
+  - Async compose: 👂 heard
 - Async abstractions interfaces
   - EventEmitter
   - Observable/Observer
-  - Readable h
-  - Writable h
+  - Readable: 👂 heard
+  - Writable: 👂 heard
   - Transform
   - Async Pool
   - Async Queue
@@ -59,21 +59,21 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers u
+  - Timers: 🖐️ used
   - `setImmediate`
   - `nextTick`
   - AbortController
   - AbortSignal
-  - Promise unhandled rejection h
-  - Promise double resolve h
+  - Promise unhandled rejection: 👂 heard
+  - Promise double resolve: 👂 heard
   - Atomics
   - High resolution clock
   - Callback hell
   - Promise hell
-  - ref() and unref() h
+  - ref() and unref(): 👂 heard
   - Error handling in async code
   - Better stack traces with return await
-  - JSON streaming serialization h
+  - JSON streaming serialization: 👂 heard
   - AsyncLocalStorage
   - AsyncResource
 - Techniques

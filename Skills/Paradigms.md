@@ -1,51 +1,51 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming u
+  - Procedural programming: 🖐️ used
   - Imperative programming
-  - Structured programming u
-  - Non-structured programming k
-  - Functional programming u
-  - Prototype-based programming h
-  - Object-oriented programming k
-  - Object-based programming k
-  - Generic programming h
+  - Structured programming: 🖐️ used
+  - Non-structured programming: 🎓 known
+  - Functional programming: 🖐️ used
+  - Prototype-based programming: 👂 heard
+  - Object-oriented programming: 🎓 known
+  - Object-based programming: 🎓 known
+  - Generic programming: 👂 heard
   - Concurrent computing
-  - Asynchronous programming h
-  - Parallel programming h
+  - Asynchronous programming: 👂 heard
+  - Parallel programming: 👂 heard
   - Reactive programming
-  - Functional-reactive (FRP) h
+  - Functional-reactive (FRP): 👂 heard
   - Automata-based programming
-  - Domain-specific languages h
-  - Multi-paradigm programming h
-  - Metaprogramming h
+  - Domain-specific languages: 👂 heard
+  - Multi-paradigm programming: 👂 heard
+  - Metaprogramming: 👂 heard
   - Actor model
   - Lambda calculus
   - Black box
   - Information hiding
   - Aspect-oriented programming
   - Anemic domain model
-  - Class composition h
+  - Class composition: 👂 heard
 - OOP basics
-  - Constructor u
+  - Constructor: 🖐️ used
   - Operator `new u`
-  - Static method h
-  - Method u
-  - Async method u
+  - Static method: 👂 heard
+  - Method: 🖐️ used
+  - Async method: 🖐️ used
   - Getters, Setters
-  - Public fields h
-  - Private fields h
+  - Public fields: 👂 heard
+  - Private fields: 👂 heard
   - Field declarations
   - Inheritance
-  - Parent class h
-  - Polymorphism h
+  - Parent class: 👂 heard
+  - Polymorphism: 👂 heard
   - Abstract class
   - Interface
   - Encapsulation
   - Hidden class
-  - Object form h
-  - Instance h
-  - Introspection h
+  - Object form: 👂 heard
+  - Instance: 👂 heard
+  - Introspection: 👂 heard
   - Reflection
   - The diamond problem
 - GRASP
@@ -72,13 +72,13 @@
   - Strategy
   - Facade
   - Proxy
-  - Chain of Responsibility h
+  - Chain of Responsibility: 👂 heard
   - Command
   - Iterator
   - State
   - Bridge
   - Builder
-  - Prototype k
+  - Prototype: 🎓 known
   - Composite
   - Decorator
   - Flyweight
