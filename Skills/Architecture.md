@@ -1,15 +1,15 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
-  - GRASP
-  - SOLID
+  - Modularity u
+  - Components h
+  - Directories u
+  - GRASP h
+  - SOLID h
   - GoF patterns
   - CQS
   - Leaking abstractions
-  - Multiparadigm code
+  - Multiparadigm code h
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
@@ -18,10 +18,10 @@
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability k
+  - Quality k
+  - Availability h
+  - Flexibility k
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
@@ -30,11 +30,11 @@
   - Multilayer approach
   - Hexagonal architecture
   - Separation of concerns (SoC)
-  - Metaprogramming
+  - Metaprogramming h
   - Inversion of control (IoC)
-  - Dependency injection (DI)
+  - Dependency injection (DI) h
   - Clean architecture
-  - Domain-driven design (DDD)
+  - Domain-driven design (DDD) h
   - Pub/sub
   - Message brocker
   - Agent
@@ -43,7 +43,7 @@
   - CQRS
   - Event sourcing
   - E-R data modeling
-  - Entity-relationship diagram
+  - Entity-relationship diagram h
   - IDEF1X
   - UML
   - Work breakdown structure
@@ -61,18 +61,18 @@
   - Vendor lock-in
   - Bus factor
 - Solution architecture
-  - A software requirements specification (SRS)
-  - Solution visions
-  - Solution capabilities
-  - System design
-  - Process modelling
+  - A software requirements specification (SRS) k
+  - Solution visions h
+  - Solution capabilities h
+  - System design h
+  - Process modelling h
   - Data modelling
-  - Solution components
-  - Risk assessment
-  - Non Functional Requirements (NFR)
-  - Clouds
+  - Solution components h
+  - Risk assessment h
+  - Non Functional Requirements (NFR) h
+  - Clouds k
   - BPMN
-  - Low-code
+  - Low-code h
   - No-code
   - Metric
   - Metric abuse
@@ -96,5 +96,5 @@
   - OLAP
   - OLTP
   - Conways Law
-  - Quality assurance
+  - Quality assurance u
   - Engineering Hygiene

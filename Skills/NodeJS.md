@@ -1,7 +1,7 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
+  - Strong and weak sides of node.js h
   - Stateful and stateless servers
   - Nonblocking I/O and blocking code
   - Event loop phases
@@ -11,17 +11,17 @@
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
+  - CommonJS modules u
+  - ECMAScript modules u
   - Module `node:module`
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - Dependencies: `npm`, `node_modules` u
+  - Files `package.json`, `package-lock.json` u
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection
+  - Dependency injection h
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
@@ -65,9 +65,9 @@
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
-  - Fetch API
+  - Fetch API k
   - IncomingMessage
-  - HTTP(S)
+  - HTTP(S) k
   - TCP/SSL
   - UDP
   - TLS
@@ -92,28 +92,28 @@
   - Native test runner
   - Logging
   - Application configuring
-  - Testing
+  - Testing h
   - CI/CD
-  - Readable
-  - Writable
+  - Readable h
+  - Writable h
   - Transform
   - Back pressure
   - Buffer
-  - Console
+  - Console u
   - Inspector
 - Data access
-  - Data access layer
-  - Repository
+  - Data access layer h
+  - Repository u
   - Active record
   - Query builder
   - Object-Relational Mapping
   - CRUD
   - DTO
 - Error handling and debugging
-  - `Error`
+  - `Error` u
   - `error.cause`
   - `error.code`
-  - `error.message`
+  - `error.message` u
   - `error.stack`
   - `Error.captureStackTrace`
   - How to avoid mixins

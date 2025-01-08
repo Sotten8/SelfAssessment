@@ -1,51 +1,51 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
+  - Procedural programming u
   - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
-  - Generic programming
+  - Structured programming u
+  - Non-structured programming k
+  - Functional programming u
+  - Prototype-based programming h
+  - Object-oriented programming k
+  - Object-based programming k
+  - Generic programming h
   - Concurrent computing
-  - Asynchronous programming
-  - Parallel programming
+  - Asynchronous programming h
+  - Parallel programming h
   - Reactive programming
-  - Functional-reactive (FRP)
+  - Functional-reactive (FRP) h
   - Automata-based programming
-  - Domain-specific languages
-  - Multi-paradigm programming
-  - Metaprogramming
+  - Domain-specific languages h
+  - Multi-paradigm programming h
+  - Metaprogramming h
   - Actor model
   - Lambda calculus
   - Black box
   - Information hiding
   - Aspect-oriented programming
   - Anemic domain model
-  - Class composition
+  - Class composition h
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
+  - Constructor u
+  - Operator `new u`
+  - Static method h
+  - Method u
+  - Async method u
   - Getters, Setters
-  - Public fields
-  - Private fields
+  - Public fields h
+  - Private fields h
   - Field declarations
   - Inheritance
-  - Parent class
-  - Polymorphism
+  - Parent class h
+  - Polymorphism h
   - Abstract class
   - Interface
   - Encapsulation
   - Hidden class
-  - Object form
-  - Instance
-  - Introspection
+  - Object form h
+  - Instance h
+  - Introspection h
   - Reflection
   - The diamond problem
 - GRASP
@@ -72,13 +72,13 @@
   - Strategy
   - Facade
   - Proxy
-  - Chain of Responsibility
+  - Chain of Responsibility h
   - Command
   - Iterator
   - State
   - Bridge
   - Builder
-  - Prototype
+  - Prototype k
   - Composite
   - Decorator
   - Flyweight

@@ -1,17 +1,17 @@
 ## Databases
 
 - Theory and concepts
-  - Data types h
-  - Performance tuning
+  - Data types u
+  - Performance tuning h
   - Migrations
   - Schema versioning
   - Backup and recovery
-  - Database scalability
-  - Relational databases
-  - Key-value store
-  - Tuple store
-  - Graph databases
-  - Object databases
+  - Database scalability h
+  - Relational databases h
+  - Key-value store u
+  - Tuple store h
+  - Graph databases h
+  - Object databases h
   - Column databases
   - Navigational databases
   - Hierarchical databases
@@ -22,48 +22,48 @@
   - Data manipulation language (DML)
   - Data query language (DQL)
 - Relational
-  - Entity-Relationship Diagram
+  - Entity-Relationship Diagram h
   - Normal forms
-  - Indexing
-  - Primary keys
+  - Indexing h
+  - Primary keys h
   - Foreign keys
   - Transactions
   - Views
   - Subqueries
   - Stored procedures
-  - SQL functions
+  - SQL functions h
   - Materialized views
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
+  - `SELECT` h
+  - `INSERT` h
   - `UPDATE`
   - `DELETE`
   - `LIMIT`
   - `OFFSET`
-  - `ORDER BY`
-  - `GROUP BY`
+  - `ORDER BY` h
+  - `GROUP BY` h
   - `HAVING`
   - `EXISTS`
-  - `JOIN`
-  - `INNER JOIN`
+  - `JOIN` h
+  - `INNER JOIN` h
   - `LEFT JOIN`
   - `RIGHT JOIN`
   - `UNION`
   - `DISTINCT`
   - `WHERE`
   - `LIKE`
-  - `IN`
+  - `IN` h
   - `BETWEEN`
-  - `CREATE TABLE`
-  - `ALTER TABLE`
+  - `CREATE TABLE` h
+  - `ALTER TABLE` h
   - `DROP TABLE`
   - `PRIMARY KEY`
   - `FOREIGN KEY`
   - `CHECK`
   - `DEFAULT`
-  - `INDEX`
+  - `INDEX h`
   - `UNIQUE`
   - `GRANT`
   - `REVOKE`
@@ -81,7 +81,7 @@
   - Memcached
   - Riak
   - DB2
-  - SQLite h
+  - SQLite
   - DynamoDB
   - Firebase
 - Data engineering
@@ -90,5 +90,5 @@
   - Big data
   - Data analysis h
   - AI tools h
-  - Cloud databases
-  - Data Visualization
+  - Cloud databases h
+  - Data Visualization h

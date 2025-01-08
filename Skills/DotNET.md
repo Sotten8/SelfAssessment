@@ -37,7 +37,7 @@
   - Memory and resource management
   - Globalization and localization
 - Network and Protocols
-  - HTTP/HTTPS support
+  - HTTP/HTTPS support h
   - WebSockets for real-time communication
   - TCP/UDP networking
   - SSL/TLS for secure connections
@@ -46,8 +46,8 @@
   - Network security (DDoS, XSS, CSRF prevention)
   - Serialization and deserialization (JSON, XML)
 - Testing and Debugging
-  - Unit testing with frameworks like xUnit, NUnit
-  - Integration testing
+  - Unit testing with frameworks like xUnit, NUnit h
+  - Integration testing k
   - Logging and tracing
   - Application monitoring and telemetry
   - Debugging tools and strategies
@@ -120,7 +120,7 @@
   - .NET MAUI / Xamarin
   - Interoperability between managed code and iOS/Android API
 - Game development
-  - Unity
+  - Unity h
 - Web development
   - ASP.NET Core
   - Blazor
