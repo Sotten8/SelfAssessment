@@ -2,9 +2,9 @@
 
 - Concepts
   - Model
-  - Modeling
+  - Modeling h
   - Subject domain
-  - Algorithm
+  - Algorithm k
   - Syntax
   - Semantics
   - Abstraction
@@ -14,14 +14,14 @@
   - Programming language
   - Contract
   - Module
-  - Library
+  - Library h
   - Package
   - Component
   - Framework
   - Platform
   - Source code
   - Object code
-  - Machine code
+  - Machine code h
   - Microcode
   - Software engineering
   - Decomposition
@@ -32,27 +32,27 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
+  - Value u
   - Identifier
-  - Variable
+  - Variable u
   - Constant
-  - Scalar
-  - Literal
+  - Scalar u
+  - Literal u
   - Expression
   - Heap
-  - Function
+  - Function h
   - Procedure
-  - Method
+  - Method h
   - Class
   - Prototype
   - Event
   - Type
   - Flag
   - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
+  - Code block u
+  - Conditions u
+  - Loops u
+  - Assignment u
   - Regular expression
   - Interface
   - Namespaces
@@ -60,13 +60,13 @@
   - Naming conventions
   - Coding conventions
   - Camel case
-  - Snake case
-  - Kebab case
+  - Snake case u
+  - Kebab case u
   - Trailing commas
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
+  - Primitive types u
   - Reference types
   - Type systems
   - Strong typing
@@ -82,10 +82,10 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
+  - Argument u
+  - Parameter u
+  - Pure function u
+  - Lambda expression u
   - Side effects
   - Closure
   - Partial application
@@ -105,7 +105,7 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array u
   - Structure
   - Record
   - Enum
@@ -135,14 +135,14 @@
   - DNS
   - CDN
   - CORS
-  - IPv4
+  - IPv4 h
   - IPv6
   - NAT
-  - URL
+  - URL u
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler u
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -161,8 +161,8 @@
   - Tracing
   - Garbage collection
   - Refactoring
-  - Code review
-  - Exception
+  - Code review h
+  - Exception h
   - Unittesting
   - git
   - Github
@@ -213,12 +213,12 @@
   - Kernel
   - Ring
   - Virtual memory
-  - File system
-  - Linux
-  - Unix
+  - File system u
+  - Linux h
+  - Unix h
   - BSD
-  - MacOS
-  - Windows
+  - MacOS h
+  - Windows u
   - Real-time OS
   - Embedded OS
 - Standards

@@ -1,7 +1,7 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types h
   - Performance tuning
   - Migrations
   - Schema versioning
@@ -71,24 +71,24 @@
   - `EXPLAIN`
 - Engines
   - PostgreSQL
-  - Oracle
-  - MySQL
+  - Oracle h
+  - MySQL h
   - MariaDB
-  - MS SQL Server
+  - MS SQL Server h
   - Redis
   - Rabbit
   - MongoDB
   - Memcached
   - Riak
   - DB2
-  - SQLite
+  - SQLite h
   - DynamoDB
   - Firebase
 - Data engineering
   - Data warehousing
   - Business intelligence
   - Big data
-  - Data analysis
-  - AI tools
+  - Data analysis h
+  - AI tools h
   - Cloud databases
   - Data Visualization
